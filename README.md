@@ -2,7 +2,6 @@
 
 An interactive JavaScript game featuring an **adaptive AI dragon** powered by a hand-crafted neural network (MLP). Battle a dragon that learns and predicts your movement patterns in real-time!
 
-**Live Demo:** [dragon-slayer-beta.vercel.app](https://dragon-slayer-beta.vercel.app)
 
 ---
 
@@ -101,28 +100,14 @@ The MLP is implemented from scratch in `js/mlp.js` without external ML libraries
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome! Feel free to:
-
-- Report bugs via [GitHub Issues](https://github.com/ooiyicheng0808-eng/dragon-slayer/issues)
-- Submit feature requests
-- Open pull requests with improvements
-
----
 
 ## 📝 License
 
-This project is currently unlicensed. See the repository for more details.
+This project is licensed under the [ISC License](LICENSE).
 
 ---
 
-## 🔗 Links
-
-- **Live Demo**: [dragon-slayer-beta.vercel.app](https://dragon-slayer-beta.vercel.app)
-- **Repository**: [github.com/ooiyicheng0808-eng/dragon-slayer](https://github.com/ooiyicheng0808-eng/dragon-slayer)
-
----
 
 ## 💡 Future Enhancements
 
@@ -135,6 +120,5 @@ This project is currently unlicensed. See the repository for more details.
 
 ---
 
-**Developed by**: [ooiyicheng0808-eng](https://github.com/ooiyicheng0808-eng)
 
 **"May your sword be sharp and your predictions sharper!"** ⚔️🐉
